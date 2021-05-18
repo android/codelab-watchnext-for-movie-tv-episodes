@@ -31,5 +31,5 @@ Copyright 2021 Google
    See the License for the specific language governing permissions and
    limitations under the License.
 
-[watch-next-for-movies-and-tv-episodes]: https://codelabs.developers.google.com/codelabs/watchnext-for-movie-tv-episodes/index.html
+[watch-next-for-movies-and-tv-episodes]: https://developer.android.com/codelabs/watchnext-for-movie-tv-episodes
 
